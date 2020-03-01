@@ -1,7 +1,7 @@
 # Harvardx Data Science Professional Certificate
 
 
-This repository includes my personal course notes, assessments, and resources from [*Module 1: R Basics*](https://www.edx.org/course/data-science-r-basics) of the 17-month-long [Harvardx Professional Certificate Program in Data Science](https://www.edx.org/professional-certificate/harvardx-data-science).
+This repository includes my course notes, assessments, and resources from [*Module 1: R Basics*](https://www.edx.org/course/data-science-r-basics) of the 17-month-long [Harvardx Professional Certificate Program in Data Science](https://www.edx.org/professional-certificate/harvardx-data-science).
 
 ## Module 1: Data Science - R Basics
 
