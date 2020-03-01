@@ -40,9 +40,9 @@ This repository includes my personal course notes, assessments, and resources fr
 ### What I learned:
 - [x] Fundamental R programming skills
 - [x] Statistical concepts such as probability, inference, and modeling and how to apply them in practice
-- [x] Gain experience with the tidyverse, including data visualization with ggplot2 and data wrangling with dplyr
-- [x] Become familiar with essential tools for practicing data scientists such as Unix/Linux, git and GitHub, and RStudio
-- [x] Implement machine learning algorithms
+- [x] Gained experience with the tidyverse, including data visualization with ggplot2 and data wrangling with dplyr
+- [x] Became familiar with essential tools for practicing data scientists such as Unix/Linux, git and GitHub, and RStudio
+- [x] Implemeneted machine learning algorithms
 - [x] In-depth knowledge of fundamental data science concepts through motivating real-world case studies
 
  
