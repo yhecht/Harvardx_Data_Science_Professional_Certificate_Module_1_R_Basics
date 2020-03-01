@@ -49,4 +49,4 @@ This repository includes my personal course notes, assessments, and resources fr
   
    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-The course, including its assessment questions, and data sets were provided by [Rafael A Irizarry](https://github.com/rafalab), Professor of Biostatistics at Harvard Chan School of Public Health and Professor of Biostatistics and Computational Biology at the Dana-Farber Cancer Institute.
+The course, including its assessment questions and data sets were provided by [Rafael A Irizarry](https://github.com/rafalab), Professor of Biostatistics at Harvard Chan School of Public Health and Professor of Biostatistics and Computational Biology at the Dana-Farber Cancer Institute.
